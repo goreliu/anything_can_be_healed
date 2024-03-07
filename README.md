@@ -1,10 +1,10 @@
-### 《没有改善不了的视力》简体中文版
+### 《没有治不好的病》简体中文版
 
 #### 阅读
 
-[在线阅读](https://goreliu.github.io/improve_your_vision/)
+[在线阅读](https://goreliu.github.io/anything_can_be_healed/)
 
-[下载地址](https://github.com/goreliu/improve_your_vision/releases)
+[下载地址](https://github.com/goreliu/anything_can_be_healed/releases)
 
 #### 构建
 

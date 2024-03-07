@@ -49,7 +49,7 @@
 [写在前面](practice_0.md)
 [练习 A——基础能量练习：感觉能量](practice_1.md)
 [练习 B——引导能量](practice_2.md)
-[练习 C—一看见能量／气场](practice_3.md)
+[练习 C——看见能量／气场](practice_3.md)
 [练习 D——脉轮冥想](practice_4.md)
 
 [第六部 附录](part_6.md)

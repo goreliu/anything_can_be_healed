@@ -1,0 +1,13 @@
+[book]
+authors = ["Martin Brofman"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "没有治不好的病"
+
+[output.html]
+
+[output.epub]
+cover-image = "000.jpg"
+additional-css = ["src/epub.css"]
+use-default-css = false

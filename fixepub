@@ -12,3 +12,9 @@ sed -i 's|idref="cover.html"|idref="cover.html" properties="duokan-page-fullscre
 sed -i 's|<p><img|<p style="text-align: center;"><img|g' **/*.html
 
 a ${PWD:t}.epub .
+
+sed -i 's|.*cover\.html.*||g' **/content.opf
+
+sed -i '12,17d' **/toc.ncx
+
+a ${PWD:t}_to_pdf.epub .

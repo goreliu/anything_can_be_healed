@@ -1,0 +1,14 @@
+#!/bin/zsh
+
+cd book/epub
+
+x 没有治不好的病.epub
+mv 没有治不好的病.epub 没有治不好的病.bak.epub
+
+cd 没有治不好的病
+
+sed -i 's|idref="cover.html"|idref="cover.html" properties="duokan-page-fullscreen"|g' **/content.opf
+
+sed -i 's|<p><img|<p style="text-align: center;"><img|g' **/*.html
+
+a ${PWD:t}.epub .
